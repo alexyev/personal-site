@@ -19,8 +19,8 @@ const positions = [
       'Tasked with identifying emergent trends in transportation and identifying the ideal store of 2030',
       'Month-long intensive research and testing project included meeting with clients and creating economically sustainable business models',
       'Created a full pitch deck outlining team\'s solution, presented to top IKEA execs',
-      'As Project Manager, assgined and delegated work, kept team on task and created deadlines for projects'
-    ]
+      'As Project Manager, assgined and delegated work, kept team on task and created deadlines for projects',
+    ],
   },
   {
     company: 'Jobby',
@@ -30,8 +30,8 @@ const positions = [
     points: [
       'Joined as an intern in early-stage startup, working with in an incubator environment',
       'Worked on every aspect of the company, from outreach to user engagement and retention',
-      'Secured office tours at companies including KPMG, Scotiabank, IBM, CIBC and others'
-    ]
+      'Secured office tours at companies including KPMG, Scotiabank, IBM, CIBC and others',
+    ],
   },
   {
     company: 'Geek Culture, StudentsxStudents, VisonaryHub',
@@ -40,8 +40,8 @@ const positions = [
     daterange: 'September 2021 - Present',
     points: [
       'Write articles about novel topics I find interesting and would like to share with the world',
-      'Reached an audience of 30,000+ people across all publications'
-    ]
+      'Reached an audience of 30,000+ people across all publications',
+    ],
   },
 ];
 
