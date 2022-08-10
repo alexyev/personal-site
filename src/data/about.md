@@ -5,45 +5,43 @@ I'm a 16 year old from Toronto making the most out of my short time here on Eart
  
 # Interests
 
-<ul>
-    <li>Finance and Capital Markets</li>
-    <li>Programming and App Development</li>
-    <li>Venture Capital and Angel Investment</li>
-    <li>Startups and Early-Stage Companies</li>
-    <li>Philosohy (especially Stoicism and the work of Nietzsche)</li>
-    <li>Quantum Computing and Quantum Machine Learning</li>
-    <li>Insightful Conversation and Building Communities</li>
-    <li>Personal Development and Life-Optimization</li>
-</ul>
+
+- Finance and Capital Markets
+- Programming and App Development
+- Venture Capital and Angel Investment
+- Startups and Early-Stage Companies
+- Philosohy (especially Stoicism and the work of Nietzsche)
+- Quantum Computing and Quantum Machine Learning
+- Insightful Conversation and Building Communities
+- Personal Development and Life-Optimization
 
 # What I Listen To
 
-<ul>
-    <li>[The Knowledge Project](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM?si=7a9930c5b74e47d2)<li>
-    <li>[The Tim Ferris Show](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=2b1c527f4b0a40d1)<li>
-    <li>[Impact Theory](https://open.spotify.com/show/1nARKz2vTIOb7gC9dusE4b?si=dc1e25c900604039)<li>
-    <li>[Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=b1e99351bcf14700)<li>
-    <li>[All-In](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF?si=bcab6d6e57464f85)</li>
-    <li>[The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk?si=b09c5e401ffd4906)</li>
-</ul>
+- [The Knowledge Project](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM?si=7a9930c5b74e47d2)
+- [The Tim Ferris Show](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=2b1c527f4b0a40d1)
+- [Impact Theory](https://open.spotify.com/show/1nARKz2vTIOb7gC9dusE4b?si=dc1e25c900604039)
+- [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=b1e99351bcf14700)
+- [All-In](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF?si=bcab6d6e57464f85)
+- [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk?si=b09c5e401ffd4906)
 
 # What I read
 
-<ul>
-    <li>[Mark Manson](https://markmanson.net/)</li>
-    <li>[Paul Graham](http://www.paulgraham.com/index.html)</li>
-    <li>[Sam Altman](https://blog.samaltman.com/)</li>
-    <li>[Naval Ravikant](https://nav.al/)</li>
-    <li>[Stoicism](https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started/)</li>
-    <li>[+ various other threads on Twitter etc.](https://twitter.com/alex_yevchenko)</li>
-</ul>
+- [Mark Manson](https://markmanson.net/)
+- [Paul Graham](http://www.paulgraham.com/index.html)
+- [Sam Altman](https://blog.samaltman.com/)
+- [Naval Ravikant](https://nav.al/)
+- [Stoicism](https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started/)
+- [+ various other threads on Twitter etc.](https://twitter.com/alex_yevchenko)
 
 # Fun Facts
 
-<ul>
-    <li>I love to travel and have been to 30+ countries in my short existence</li>
-    <li>I'm an INTJ personality type</li>
-    <li>I dream of doing a pan-European road-trip in a Porsche 911</li>
-    <li>I learn faster than most</li>
-    <li>I believe school has a lot of potential for reform</li>
-</ul>
+- I love to travel and have been to 30+ countries in my short existence
+- I'm an INTJ personality type
+- I dream of doing a pan-European road-trip in a Porsche 911
+- I learn faster than most
+- I believe school has a lot of potential for reform
+
+# Reach Out
+
+I'm active on Twitter, LinkedIn, and email, send me a message!
+
