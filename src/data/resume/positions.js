@@ -1,5 +1,16 @@
 const positions = [
   {
+    company: 'The Catherine Wheel',
+    position: 'Intern',
+    link: 'https://www.thecatherinewheel.co/',
+    daterange: 'July - August, 2022',
+    points: [
+      'Conducted market research on emerging tech verticals and potential investors',
+      'Aided 3 current portfolio companies with market insight and vetted prospective investments',
+
+    ]
+  },
+  {
     company: 'Tungsten',
     position: 'Co-founder',
     link: 'https://jointungsten.com/',
@@ -26,7 +37,7 @@ const positions = [
     company: 'Jobby',
     position: 'Intern',
     link: 'https://www.linkedin.com/company/joinjobby/',
-    daterange: 'July 2022 - Present',
+    daterange: 'July - August, 2022',
     points: [
       'Joined as an intern in early-stage startup, working with in an incubator environment',
       'Worked on every aspect of the company, from outreach to user engagement and retention',
@@ -39,8 +50,9 @@ const positions = [
     link: 'https://medium.com/@alexanderyevchenko',
     daterange: 'September 2021 - Present',
     points: [
-      'Write articles about novel topics I find interesting and would like to share with the world',
+      'Write articles about emerging technology, philosophy, and personal growth, sharing knowledge and experiences with others',
       'Reached an audience of 30,000+ people across all publications',
+      'Work featured in the National Observer and Forbes'
     ],
   },
 ];
