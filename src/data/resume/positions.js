@@ -7,7 +7,6 @@ const positions = [
     points: [
       'Conducted market research on emerging tech verticals and potential investors',
       'Aided 3 current portfolio companies with market insight and vetted prospective investments',
-
     ]
   },
   {
