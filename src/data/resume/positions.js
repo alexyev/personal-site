@@ -7,7 +7,7 @@ const positions = [
     points: [
       'Conducted market research on emerging tech verticals and potential investors',
       'Aided 3 current portfolio companies with market insight and vetted prospective investments',
-    ]
+    ],
   },
   {
     company: 'Tungsten',
@@ -51,7 +51,7 @@ const positions = [
     points: [
       'Write articles about emerging technology, philosophy, and personal growth, sharing knowledge and experiences with others',
       'Reached an audience of 30,000+ people across all publications',
-      'Work featured in the National Observer and Forbes'
+      'Work featured in the National Observer and Forbes',
     ],
   },
 ];
