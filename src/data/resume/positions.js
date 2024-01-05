@@ -1,5 +1,27 @@
 const positions = [
   {
+    company: 'Cultura',
+    position: 'Co-founder',
+    link: 'https://www.culturafarms.ca/landing.html',
+    daterange: 'June 2023 - Present',
+    points: [
+      'Co-Founded app for local farmers including expenditure, crop phenology, and weather',
+      'Won BETA Camp Hackathon and Buildspace Top 32, raised grant from Emergent Ventures',
+    ],
+  },
+  {
+    company: 'CAE',
+    position: 'Consultant, PM',
+    link: '',
+    daterange: 'February - March, 2023',
+    points: [
+      'Tasked with identifying new market verticals for existing hardware and infrastructure to boost revenue',
+      'Month-long intensive research and testing project included meeting users and creating business forecasts',
+      'Created a full pitch deck outlining team\'s solution, presented to CAE board',
+      'As Project Manager, assgined and delegated work, kept team on task and created deadlines for projects',
+    ],
+  },
+  {
     company: 'The Catherine Wheel',
     position: 'Intern',
     link: 'https://www.thecatherinewheel.co/',
@@ -7,17 +29,6 @@ const positions = [
     points: [
       'Conducted market research on emerging tech verticals and potential investors',
       'Aided 3 current portfolio companies with market insight and vetted prospective investments',
-    ],
-  },
-  {
-    company: 'Tungsten',
-    position: 'Co-founder',
-    link: 'https://jointungsten.com/',
-    daterange: 'May - July, 2022',
-    points: [
-      'Built out an wireless power transfer infrastructure to power 800M+ people globally',
-      'Worked on all aspects of the solution',
-      'Pitched the idea to 300+ people at Microsoft Canada\'s Headquarters',
     ],
   },
   {

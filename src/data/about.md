@@ -1,6 +1,6 @@
 # Intro
 
-I'm a 16 year old from Toronto making the most out of my short time here on Earth. I'm driven to solve problems and maximize impact, whether that be through reducing maternal mortality in Bolivia or enabling electricity in rural Africa. You can usually find me in front of my laptop figuring out a new concept or engrossed in a good read. I'm currently working on developing an effective solution to identify and treat corn disease in it's earliest stages, using a combination of computer vision and mechatronics.
+I'm a 17 year old from Toronto making the most out of my short time here on Earth. I'm driven to solve problems and maximize impact, whether that be through reducing maternal mortality in Bolivia or enabling electricity in rural Africa. You can usually find me in front of my laptop figuring out a new concept or engrossed in a good read. I'm currently working on developing an effective solution to identify and treat corn disease in it's earliest stages, using a combination of computer vision and mechatronics.
 
 # Interests
 
@@ -29,7 +29,7 @@ I'm a 16 year old from Toronto making the most out of my short time here on Eart
 - [Sam Altman](https://blog.samaltman.com/)
 - [Naval Ravikant](https://nav.al/)
 - [Stoicism](https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started/)
-- [+ various other threads on Twitter etc.](https://twitter.com/alex_yevchenko)
+- [+ various other threads on Twitter etc.](https://twitter.com/ayevc)
 
 # Fun Facts
 
